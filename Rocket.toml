@@ -1,3 +1,6 @@
 
 [debug]
 port=8080
+
+[global]
+templates = "src/templates"
